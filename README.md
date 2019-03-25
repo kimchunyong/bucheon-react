@@ -11,9 +11,10 @@
 
 3. 컴포넌트
 - 3.1 [컴포넌트 props](https://reactjs.org/docs/components-and-props.html)
- 3.2 [state,LifeCircle](https://reactjs.org/docs/state-and-lifecycle.html)
+- 3.2 [state,LifeCircle](https://reactjs.org/docs/state-and-lifecycle.html)
 
 4. 이벤트핸들링
+- 4.1 [이벤트핸들링](https://codesandbox.io/s/z66w4qv9ym)
 
 5. ref.DOM
 
